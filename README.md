@@ -1,6 +1,9 @@
 
 
-# Robot with 10 servos see code 
+![Ludwig](https://github.com/user-attachments/assets/823d598f-9ba9-464a-bef8-8d767e45c39a)
+
+
+# Robot with 10 servos see code with Jetson Nano 
 import time import math from board 
 import SCL, SDA
 import busio from adafruit_pca9685 import PCA9685
