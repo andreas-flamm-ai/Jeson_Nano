@@ -1,6 +1,7 @@
 
 
-![Ludwig](https://github.com/user-attachments/assets/823d598f-9ba9-464a-bef8-8d767e45c39a)
+![Ludwig](https://github.com/user-attachments/assets/4569f210-84bf-4418-9ab9-c4d342ce278b)
+
 
 
 # Robot with 10 servos see code with Jetson Nano 
